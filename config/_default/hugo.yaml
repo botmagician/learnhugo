@@ -29,6 +29,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  social: true
 
 menu:
   main:
